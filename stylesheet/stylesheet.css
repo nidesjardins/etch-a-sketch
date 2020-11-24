@@ -1,0 +1,11 @@
+.grid-container {
+    width: 500px;
+    height: 500px;
+    outline: 1px solid;
+}
+
+.grid-container div {
+    width: 100px;
+    height: 100px;
+    outline: 1px solid;
+}
